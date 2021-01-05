@@ -1,0 +1,13 @@
+Submission for Software Project Management and Advance Database Systems for 
+Joshua Alkins 190908
+Antonio Workman 190907
+
+This repository contains all the documents for Project Management, an SRS 
+and an SDS for the Database Project, and the databse research paper.
+
+The source code for the PDQ project can be found in seperate repositories:
+PDQ Routing Subsystem Server:
+https://github.com/joshua-alkins/PDQ_routing_server
+
+PDQ Routing Subsystem App:
+https://github.com/joshua-alkins/Routing_App
